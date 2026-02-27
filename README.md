@@ -15,7 +15,7 @@
         <td style="background-color: hsl(250, 50%, 40%, 0.80);">dark blue</td>
         <td style="color-background: hsl(30, 70%, 55%, 0.75);">light orange</td>
         <td style="color-background: hsl(340, 50%, 50%, 0.75);">pink</td>
-        <td style="color-background: hsl(50, 70%, 55%, 0.75);">yellow</td>  
+        <td style="color-background: hsl(40, 70%, 50%, 0.75);">yellow</td>  
       </tr>
       <tr>
         <td></td>
