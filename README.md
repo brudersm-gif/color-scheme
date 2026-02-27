@@ -5,9 +5,7 @@
   </head>
   <body>
     <table>
-      <tr>
-        <th style="font-weight: bold;">Ocean Sunset</th>
-      </tr>
+      <th style="font-weight: bold;">Ocean Sunset</th>
       <tr>
         <td style="color: hsl(250, 50%, 40%, 1.0);">dark blue</td>
         <td></td>
